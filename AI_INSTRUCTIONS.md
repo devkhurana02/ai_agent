@@ -1,4 +1,4 @@
-# CLAUDE.md
+# CLA.md
 
 ## Project Overview
 
